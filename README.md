@@ -16,10 +16,10 @@
 ### Install
 1. Clone the project and go to project directory
    ```
-   git clone https://github.com/recitativonika/Dawn-Validator-bot.git
+   git clone https://github.com/reno-ai2024/reno-dawn.git
    ```
    ```
-   cd Dawn-Validator-bot
+   cd reno-dawn
    ```
 2. Install required package
    ```
